@@ -1,0 +1,20 @@
+//My vars
+$gray-100:  #f3f3f3;
+
+$theme-colors: (  
+  "capitan-america": #0066ff,
+  "iron-man": #ff0000,
+  "hulk": #0b5c00,
+  "black-widow": #636363,
+  "thor": #ff2f00,
+  "fury": #000000,
+  "pepper": #362bcf,
+  "light": #e9e9e9,
+);
+
+$jumbotron-padding: 2rem !default;
+$jumbotron-bg: $gray-100;
+
+$font-family-base: Roboto;
+
+@import "./node_modules/bootstrap/scss/bootstrap";
